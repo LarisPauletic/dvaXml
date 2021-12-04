@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dvaXml", "dvaXml\dvaXml.csproj", "{4B00BFD3-C041-4B7C-9BA7-593D9743EFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B00BFD3-C041-4B7C-9BA7-593D9743EFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B00BFD3-C041-4B7C-9BA7-593D9743EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B00BFD3-C041-4B7C-9BA7-593D9743EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B00BFD3-C041-4B7C-9BA7-593D9743EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F6D1275-ACA6-4BF3-9C63-849D418B3F10}
+	EndGlobalSection
+EndGlobal
